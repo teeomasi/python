@@ -8,7 +8,7 @@ postinumer = input ("anna postinumero:")
 kaupunki = input ("anna city:")
 maa = input ("anna maa:")
 syntymävuosi = input ("anna syntymävuosi:")
-ikä = syntymävuosi - 
+ikä = syntymävuosi
 print ("KITOS!")
 print ("")
 print("")
