@@ -1,3 +1,27 @@
-#testi update 
-#testi testi#testi update 
-#testi testi
+#Henkilötietotulostaja
+etunimet = input ("anna etunimet:")
+sukunimi = input ("anna sukunimi:")
+puhelinnumero = input ("anna puh:")
+säpö = input ("anna säpö:")
+osoite = input ("anna osoite:")
+postinumer = input ("anna postinumero:")
+kaupunki = input ("anna city:")
+maa = input ("anna maa:")
+syntymävuosi = input ("anna syntymävuosi:")
+ikä = syntymävuosi - 
+print ("KITOS!")
+print ("")
+print("")
+print ("HENKILÖN TIEDOT")
+print ("---------")
+print ("NIMI:")
+print (f"  {sukunimi}, {etunimet}")
+print ("PUH:")
+print (f"  {puhelinnumero}")
+print ("E-MAIL:")
+print (f"  {säpö}")
+print ("OSOITE:")
+print (f"  {osoite}")
+print (f"  {postinumer}")
+print(f"  {maa}")
+print(f"  {ikä}")
